@@ -1,9 +1,10 @@
 #!/usr/bin/PYTHON3
 
-def function_A():
-    print("A")
-def function_B():
-    print("B")
-    
-function_A()
-function_B()
+import lab5a
+import lab5b
+
+def main():
+    lab5a.show_my_name()
+    lab5b.show_my_name()
+
+main()
