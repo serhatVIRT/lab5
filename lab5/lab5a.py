@@ -1,3 +1,2 @@
-
 def show_my_name():
-    str("Student A")
+    print "Student A"
